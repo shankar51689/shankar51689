@@ -75,13 +75,31 @@ Previously:
 
 ---
 
-## 🤝 Connect With Me
+## 🌍 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/shankar51689">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="www.linkedin.com/in/monu-sharma-7980b7189">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:monu40128@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shankar51689)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<username>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://<portfolio>)
-[![Email](https://img.shields.io/badge/Email-monu40128%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monu40128@gmail.com)
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,100:06B6D4&section=footer"/>
 
 </div>
+
