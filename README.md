@@ -7,9 +7,14 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shankar51689&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=shankar51689&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-22c55e?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work" />
 <img src="https://img.shields.io/badge/Focus-Mobile%20Engineering-7c3aed?style=for-the-badge&logo=android&logoColor=white" alt="Focus" />
+
+<img src="https://komarev.com/ghpvc/?username=shankar51689&style=for-the-badge&color=0e75b6"/> -->
+<img src="https://img.shields.io/badge/Open%20to%20Work-YES-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apps_Built-15%2B-orange?style=for-the-badge"/>
 
 </div>
 
@@ -44,6 +49,37 @@ Previously:
 
 ---
 
+---
+
+# 🚀 Tech Stack
+
+## Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,react,python"/>
+
+</p>
+
+## Backend & Database
+
+<p>
+
+<!-- <img src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite,mongodb,firebase"/> -->
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode"/>
+
+</p>
+
+---
+
 ## 📊 GitHub Insights
 
 <div align="center">
@@ -57,7 +93,12 @@ Previously:
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shankar51689&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<!-- <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shankar51689&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" /> -->
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shankar51689&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 <br/>
 
